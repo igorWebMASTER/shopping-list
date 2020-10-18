@@ -1,2 +1,3 @@
-# shopping-list
-A simple and enjoyable shopping list made with React Native using React Hooks
+# Shopping List 
+
+Lista de compras feita com React Native usando Hooks
